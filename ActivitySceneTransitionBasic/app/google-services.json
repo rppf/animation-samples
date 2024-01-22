@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "424897378885",
-    "project_id": "playground-s-11-b451b1e2",
-    "storage_bucket": "playground-s-11-b451b1e2.appspot.com"
+    "project_number": "650802733459",
+    "project_id": "clever-bounty-412009",
+    "storage_bucket": "clever-bounty-412009.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:424897378885:android:6df6dde5a1ca37dbd8412c",
+        "mobilesdk_app_id": "1:650802733459:android:53d711eccaea21d2be4866",
         "android_client_info": {
           "package_name": "com.example.android.activityscenetransitionbasic"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD6_iKQPsqmouMVo-6GWK7j1_FQTLBsU6c"
+          "current_key": "AIzaSyB5ibIMPV3GkyOGplOSHqFS4qBfum8RwSE"
         }
       ],
       "services": {
